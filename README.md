@@ -1,9 +1,9 @@
 # 👋 Hello, I’m Daniele Citran!
 
-💻 Student at IMS Hottingen
-📍 Location: Zurich, Switzerland
+💻 Student at IMS Hottingen   
+📍 Zurich, Switzerland
 
-## 🛠️ Technologies I’ve worked with:
+## 🛠️ I've programmed with:
 - **Programming Languages:** Python, JavaScript, Java 
 - **Web Development:** HTML5, CSS3, React, TailwindCSS, Flask
 - **Databases:** MySQL, MongoDB
@@ -18,5 +18,5 @@ Here are some of my projects that highlight my skills and interests:
 Feel free to check out my GitHub repositories to see more of my work!
 
 ## 📫 Get in Touch:
-You can reach me via Email daniele.ctr.zh@icloud.com
-I’d love to connect and collaborate!
+You can reach me via Email daniele.ctr.zh@icloud.com   
+I would love to connect and collaborate!
