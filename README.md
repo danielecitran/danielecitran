@@ -1,12 +1,12 @@
-# ![wave](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif) Hello, I’m Daniele Citran!  
+# <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" alt="wave" width="25px" style="vertical-align:middle"/> Hello, I’m Daniele Citran!  
 💻 Student at IMS Hottingen  
 📍 Affoltern am Albis, Switzerland  
 
 <details>
   <summary><h2>🛠️ I've programmed with:</h2></summary>
 
-- **Programming Languages:** Python, JavaScript, Java  
-- **Web Development:** HTML5, CSS3, React, TailwindCSS, Flask  
+- **Programming Languages:** Python, JavaScript  
+- **Web Development:** HTML5, CSS3, React, Flask  
 - **Databases:** MySQL, MongoDB  
 - **Other Tools:** Git, Docker, Shell/Bash  
 
