@@ -1,4 +1,4 @@
-# Hello, I’m Daniele Citran!  
+# ![wave](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif) Hello, I’m Daniele Citran!  
 💻 Student at IMS Hottingen  
 📍 Affoltern am Albis, Switzerland  
 
