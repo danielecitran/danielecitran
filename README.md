@@ -3,7 +3,7 @@
 </div>
 
 # <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" alt="wave" width="25px" style="vertical-align:middle"/> Hello World! I’m Daniele Citran!
-I’m a 17-year-old IT student with a passion for figuring out how things work. When I’m not glued to my computer, you’ll likely find me outdoors.   
+I’m a 17-year-old IT student with a passion for figuring out how things work. Away from the world of bits and bytes, I enjoy being outdoors.   
 
 💻 Student at IMS Hottingen  
 📍 Affoltern am Albis, Switzerland  
