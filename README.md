@@ -2,11 +2,16 @@
   <img src="https://github.com/danielecitran/danielecitran/blob/main/danielecitran.gif" alt="Daniele Citran Banner" />
 </div>
 
-# <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" alt="wave" width="25px" style="vertical-align:middle"/> Hello World! I’m Daniele Citran!
-I’m a 17-year-old IT student with a passion for figuring out how things work. Away from the world of bits and bytes, I enjoy being outdoors.   
+# <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" alt="wave" width="25px" style="vertical-align:middle"/> Hello World! I’m Daniele Citran!   
 
-💻 Student at IMS Hottingen  
-📍 Affoltern am Albis, Switzerland  
+🎓 | Student at IMS Hottingen  
+📍 | Affoltern am Albis, Switzerland  
+
+<details>
+  <summary><h2>🚀 About Me</h2></summary>
+
+  Great to meet you here! My name is Daniele ...
+</details>
 
 <details>
   <summary><h2>🛠️ I've programmed with:</h2></summary>
