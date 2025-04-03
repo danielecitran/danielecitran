@@ -46,6 +46,3 @@
   via Telefon: 
 
 </details>
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielecitran)](https://github.com/anuraghazra/github-readme-stats)
