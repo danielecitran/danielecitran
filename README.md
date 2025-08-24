@@ -14,7 +14,7 @@
   - **[MTPerformance Landingpage](https://github.com/MT-Pages/MT-performance-Homepage)**: Landingpage für einen Fiverr Kunden
   - **[Umbau-Allrounder Webseite](https://github.com/danielecitran/umbau-allrounder)**: Eine Webseite für die Umbau-Allrounder GmbH
   - **[Portfolio](https://github.com/danielecitran/my-portfolio)**: Mein persönliches Portfolio
-  - **[RatingPulse](https://github.com/danielecitran/RatingPulse)**: RatingPulse ist eine Webanwendung zur Analyse von Kundenbewertungen aus Google (noch nicht abgeschlossen)
+  - **[RatingPulse](https://github.com/danielecitran/RatingPulse)**: Eine Webanwendung zur Analyse von Kundenbewertungen aus Google (noch nicht abgeschlossen)
 
   Schauen Sie sich gerne meine GitHub-Repositorys an!
 </details>
