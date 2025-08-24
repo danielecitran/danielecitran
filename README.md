@@ -8,9 +8,13 @@
 
   Hier sind einige meiner Projekte, die meine Fähigkeiten und Interessen verdeutlichen:
 
-  - **P1**: Description  
-  - **[wordsauce](https://github.com/danielecitran/wordsauce)**: Ein interaktives Online-Wörterspiel, bei dem Spieler Wörter erraten müssen.
-  - **Project 3**: Description  
+  - **[NoteTrack](https://github.com/danielecitran/NoteTrack)**: Eine All-in-One Schulplattform für Schüler
+  - **[wordsauce](https://github.com/danielecitran/wordsauce)**: Ein interaktives Online-Wörterspiel, bei dem Spieler Wörter erraten müssen
+  - **[devware Landingpage](https://github.com/devware-ch/devware-landingpage)**: devware Landingpage
+  - **[MTPerformance Landingpage](https://github.com/MT-Pages/MT-performance-Homepage)**: Landingpage für einen Fiverr Kunden
+  - **[Umbau-Allrounder Webseite](https://github.com/danielecitran/umbau-allrounder)**: Eine Webseite für die Umbau-Allrounder GmbH
+  - **[Portfolio](https://github.com/danielecitran/my-portfolio)**: Mein persönliches Portfolio
+  - **[RatingPulse](https://github.com/danielecitran/RatingPulse)**: RatingPulse ist eine Webanwendung zur Analyse von Kundenbewertungen aus Google (noch nicht abgeschlossen)
 
   Schauen Sie sich gerne meine GitHub-Repositorys an!
 </details>
