@@ -8,8 +8,8 @@
 
   Hier sind einige meiner Projekte, die meine Fähigkeiten und Interessen verdeutlichen:
 
-  - **Project 1**: Description  
-  - **Project 2**: Description  
+  - **P1**: Description  
+  - **[wordsauce](https://github.com/danielecitran/wordsauce)**: Ein interaktives Online-Wörterspiel, bei dem Spieler Wörter erraten müssen.
   - **Project 3**: Description  
 
   Schauen Sie sich gerne meine GitHub-Repositorys an!
