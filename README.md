@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" alt="wave" width="25px" style="vertical-align:middle"/> Grüezi! Ich bin Daniele Citran  
 
-🎓 | Schüler an der IMS Hottingen <br>
+🎓 | Schüler an der Kantonsschule Hottingen <br>
 📍 | Affoltern am Albis 
 
 <details>
