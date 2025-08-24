@@ -15,8 +15,8 @@
   - **[Umbau-Allrounder Webseite](https://github.com/danielecitran/umbau-allrounder)**: Eine Webseite für die Umbau-Allrounder GmbH
   - **[Portfolio](https://github.com/danielecitran/my-portfolio)**: Mein persönliches Portfolio
   - **[RatingPulse](https://github.com/danielecitran/RatingPulse)**: Eine Webanwendung zur Analyse von Kundenbewertungen aus Google (noch nicht abgeschlossen)
+  - **[Mensa App](https://github.com/MikolajKulig/I2b-Mensa-app)**: Ein Schulprojekt am BZZ, durchgeführt mit Scrum
 
-  Schauen Sie sich gerne meine GitHub-Repositorys an!
 </details>
 
 <details>
