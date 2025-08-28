@@ -24,5 +24,5 @@
   <summary><h2>📫 Kontakt:</h2></summary>
 
   - 📧 E-Mail: [daniele.citran@student.ksh.ch](mailto:daniele.citran@student.ksh.ch)    
-  - 🖥️ Portfolio: [XY](https://deine-website.com)  
+  - 🖥️ Portfolio: [citran.dev](https://citran.dev)  
 </details>
